@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/admintv/static/css/main.39bfc01f.css",
-    "main.js": "/admintv/static/js/main.4772cfb5.js",
+    "main.js": "/admintv/static/js/main.ded5faad.js",
     "index.html": "/admintv/index.html",
     "main.39bfc01f.css.map": "/admintv/static/css/main.39bfc01f.css.map",
-    "main.4772cfb5.js.map": "/admintv/static/js/main.4772cfb5.js.map"
+    "main.ded5faad.js.map": "/admintv/static/js/main.ded5faad.js.map"
   },
   "entrypoints": [
     "static/css/main.39bfc01f.css",
-    "static/js/main.4772cfb5.js"
+    "static/js/main.ded5faad.js"
   ]
 }
